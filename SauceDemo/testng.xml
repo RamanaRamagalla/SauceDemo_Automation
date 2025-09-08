@@ -1,0 +1,10 @@
+<suite name="Suite">
+  <test name="Tests">
+    <classes>
+      <class name="testcases.testAuthentication"/>
+      <class name="testcases.testProducts"/>
+      <class name="testcases.testCart"/>
+      <class name="testcases.testCheckOut"/>
+    </classes>
+  </test>
+</suite>
