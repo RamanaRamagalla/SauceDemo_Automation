@@ -1,12 +1,14 @@
 {
   "name": "saucedemo_automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "SauceDemo automation project",
   "main": "index.js",
   "scripts": {
-  "test": "cucumber-js"
-}
-
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.13.0",
+    "cucumber": "^7.11.0"
   },
   "repository": {
     "type": "git",
