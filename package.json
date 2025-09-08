@@ -1,0 +1,20 @@
+{
+  "name": "saucedemo_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamanaRamagalla/SauceDemo_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamanaRamagalla/SauceDemo_Automation/issues"
+  },
+  "homepage": "https://github.com/RamanaRamagalla/SauceDemo_Automation#readme"
+}
